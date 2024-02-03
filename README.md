@@ -1,3 +1,7 @@
+This fork fixes compatibility with the latest Chrome/Edge browsers and improves performance.
+
+---
+
 Due to lack of time this repo has not gotten new updates in a while. While I have not abandoned the project and may update it in the future, for the time being if there are bugs or lack of features that makes this unusable to you, you can instead use one of these alternatives:
 - [Hurl](https://github.com/U-C-S/Hurl)
 - [Browser Tamer](https://www.aloneguid.uk/projects/bt/)
